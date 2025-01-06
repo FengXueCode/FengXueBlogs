@@ -50,4 +50,3 @@ jobs:
           git commit -m "Create by workflows"
           git remote add origin https://${{ secrets.BLOGS_TOKEN }}@github.com/FengXueCode/FengXueBlogs.git
           git push origin HEAD:blogs -f
-## test 
