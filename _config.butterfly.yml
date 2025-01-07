@@ -1055,6 +1055,8 @@ inject:
     - <script src="/FengXueBlogs/js/util.js"></script>  
     - <script src="/FengXueBlogs/js/share.js"></script>  
     - <script src="/FengXueBlogs/js/readPercent.js"></script>  
+    - <script src="/FengXueBlogs/js/title.js"></script>  
+    - <script src="/FengXueBlogs/js/cursor.js"></script>  
     # - <script async src="/js/fps.js"></script> # 帧率检测
     - <canvas id="snow"></canvas> # 雪花画布
     - <script async src="/FengXueBlogs/js/snow.js"></script> # 雪花特效
