@@ -28,7 +28,7 @@ menu:
 # Code Blocks Settings
 # --------------------------------------
 # 代码高亮
-highlight_theme: mac
+highlight_theme: darker
 # 复制
 highlight_copy: true
 # 代码展开
@@ -64,7 +64,7 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /img/favicon.png
+favicon: /FengXueBlogs/img/favicon.png
 
 avatar:
   img: /img/FengXue.jpg
@@ -810,11 +810,13 @@ beautify:
 
 # Global font settings
 # Don't modify the following settings unless you know how they work
+# Global font settings
+# Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-  global_font_size:
-  code_font_size:
-  font_family:
-  code_font_family:
+  global-font-size: '16px'
+  code-font-size: '14px'
+  font-family: 
+  code-font-family: 
 
 # Font settings for the site title and site subtitle
 blog_title_font:
@@ -1044,6 +1046,7 @@ inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
     - <link rel="stylesheet" href="/FengXueBlogs/css/readPercent.css">
+    - <link rel="stylesheet" href="/FengXueBlogs/css/font.css">
     - <link rel="stylesheet" href="/FengXueBlogs/css/custom.css" media="defer" onload="this.media='all'">
     - <link rel="stylesheet" href="https://cdn1.tianli0.top/npm/element-ui@2.15.6/packages/theme-chalk/lib/index.css"> # 引入组件库(f12)
     # - <span id="fps"></span> # 帧率检测
@@ -1058,8 +1061,8 @@ inject:
     - <script src="/FengXueBlogs/js/title.js"></script>  
     - <script src="/FengXueBlogs/js/cursor.js"></script>  
     # - <script async src="/js/fps.js"></script> # 帧率检测
-    - <canvas id="snow"></canvas> # 雪花画布
-    - <script async src="/FengXueBlogs/js/snow.js"></script> # 雪花特效
+    # - <canvas id="snow"></canvas> # 雪花画布
+    # - <script async src="/FengXueBlogs/js/snow.js"></script> # 雪花特效
     # - <script src="xxxx"></script>
 
 local_search:
