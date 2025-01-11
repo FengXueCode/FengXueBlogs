@@ -22,7 +22,7 @@ menu:
   分类: /categories/ || fas fa-folder-open
   标签: /tags/ || fas fa-tags
   # 列表|| fas fa-list
-  友链: /link/ || fas fa-link
+  # 友链: /link/ || fas fa-link
 
 # --------------------------------------
 # Code Blocks Settings
@@ -40,7 +40,7 @@ highlight_height_limit: 200 # unit: px
 
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
-  theme: light
+  theme: darker
   macStyle: false
   # Code block height limit (unit: px)
   height_limit: false
@@ -64,8 +64,10 @@ social:
 # Image Settings
 # --------------------------------------
 
-favicon: /FengXueBlogs/img/favicon.png
+# 网页图标
+favicon: /img/favicon.png
 
+# 头像
 avatar:
   img: /img/FengXue.jpg
   effect: false
@@ -296,7 +298,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/FengXueCode
   card_announcement:
     enable: true
     content: 唔哩博客正式上线啦
@@ -477,7 +479,7 @@ math:
 search:
   # Choose: algolia_search / local_search / docsearch
   # leave it empty if you don't need search
-  use:
+  use: local_search
   placeholder:
 
   # Algolia Search
@@ -1065,8 +1067,6 @@ inject:
     # - <script async src="/FengXueBlogs/js/snow.js"></script> # 雪花特效
     # - <script src="xxxx"></script>
 
-local_search:
-  enable: true
 # CDN Settings
 # Don't modify the following settings unless you know how they work
 CDN:
