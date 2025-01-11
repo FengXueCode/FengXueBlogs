@@ -93,3 +93,6 @@
   -ms-transform: scale(0.5);
   -o-transform: scale(0.5);
 }
+
+/* 隐藏滚动条*/
+body::-webkit-scrollbar { display: none;!important }
