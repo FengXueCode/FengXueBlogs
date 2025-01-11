@@ -1,0 +1,15 @@
+@font-face{
+    font-family: 'XiaoXiong';
+    font-display: swap;
+    src: url('../font/xiaoxiongtoutoufanmaikeaiziti.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'NaiLao';
+    font-display: swap;
+    src: url('../font/renjiannailaobianlidian.ttf') format("truetype");
+}
+
+
+body {
+    font-family:'XiaoXiong';
+}
