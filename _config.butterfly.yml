@@ -438,12 +438,9 @@ copy:
 
 # Need to install the hexo-wordcount plugin
 wordcount:
-  enable: false
-  # Display the word count of the article in post meta
+  enable: true
   post_wordcount: true
-  # Display the time to read the article in post meta
   min2read: true
-  # Display the total word count of the website in aside's webinfo
   total_wordcount: true
 
 # Busuanzi count for PV / UV in site
@@ -819,8 +816,8 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
 font:
-  global-font-size: '16px'
-  code-font-size: '14px'
+  global-font-size: '16'
+  code-font-size: '16'
   font-family: 
   code-font-family: 
 

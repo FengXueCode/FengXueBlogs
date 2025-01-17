@@ -1,5 +1,5 @@
 @font-face{
-    font-family: 'XiaoXiong';
+    font-family: 'XiaoXiong'; 
     font-display: swap;
     src: url('../font/xiaoxiongtoutoufanmaikeaiziti.ttf') format("truetype");
 }
@@ -12,4 +12,5 @@
 
 body {
     font-family:'XiaoXiong';
+    font-size:16px;
 }
