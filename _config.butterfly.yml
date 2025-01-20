@@ -31,24 +31,13 @@ night_mode:
 # --------------------------------------
 # Code Blocks Settings
 # --------------------------------------
-# 代码高亮
-highlight_theme: darker
-# 复制
-highlight_copy: true
-# 代码展开
-highlight_shrink: true #代码框不展开，需点击 '>' 打开
-# 代码换行
-code_word_wrap: true
-# 代码块高度
-highlight_height_limit: 200 # unit: px
-
 code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
   theme: darker
-  macStyle: false
+  macStyle: true
   # Code block height limit (unit: px)
-  height_limit: false
-  word_wrap: false
+  height_limit: 200
+  word_wrap: true
 
   # Toolbar
   copy: true
@@ -1055,10 +1044,10 @@ inject:
     - <link rel="stylesheet" href="/FengXueBlogs/css/universe.css">
 
   bottom:
+    - <script src="/FengXueBlogs/js/util.js"></script>  
     - <script async src="https://cdn1.tianli0.top/npm/vue@2.6.14/dist/vue.min.js"></script> # 引入VUE(f12)
     - <script async src="https://cdn1.tianli0.top/npm/element-ui@2.15.6/lib/index.js"></script> # 引入ElementUI(f12)
     - <script src="https://cdn.bootcdn.net/ajax/libs/clipboard.js/2.0.11/clipboard.min.js"></script>  
-    - <script src="/FengXueBlogs/js/util.js"></script>  
     - <script src="/FengXueBlogs/js/share.js"></script>  
     - <script src="/FengXueBlogs/js/readPercent.js"></script>  
     - <script src="/FengXueBlogs/js/title.js"></script>  
