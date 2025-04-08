@@ -145,8 +145,6 @@ categories:
 
 ### 2.5 拍摄模式
 
-#### 2.5.1 相机常用模式
-
 |     挡位      |     调整      |         场景         |
 | :-----------: | :-----------: | :------------------: |
 |   P 半自动    |      ISO      |         抓拍         |
@@ -174,4 +172,147 @@ categories:
 - 相机离主题近
 - 光圈较大
 - 焦距较长
+
+
+
+### 2.7 摄影构图
+
+构图核心：
+
+- 确认主体
+- 去掉画面中与主体无关的元素
+- 加入突出主体表达的元素并合理摆放
+- 成功传达表达的内容
+
+#### 2.7.1 构图法则
+
+1. 视觉凝聚：
+
+   ![image-20250408134028809](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134028809.png)
+
+   ![image-20250408134043860](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134043860.png)
+
+   ![image-20250408134057389](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134057389.png)
+
+   
+
+![image-20250408134123051](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134123051.png)
+
+2. 视觉引导
+
+![image-20250408134213451](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134213451.png)
+
+![image-20250408134245847](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134245847.png)
+
+3. 视觉控制
+
+![image-20250408134322054](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134322054.png)
+
+#### 2.7.2 常见流行构图技巧
+
+1. 三分法（运动方向/视线要留白）
+
+   ![image-20250408134459207](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134459207.png)
+
+2. 居中法（证件照、庄严肃穆的建筑等）
+
+![image-20250408134512599](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134512599.png)
+
+3. 三角形构图
+
+![image-20250408134537033](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134537033.png)
+
+4. 前中后景
+
+![image-20250408134601874](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408134601874.png)
+
+#### 
+
+### 2.8 曝光与影调
+
+#### 2.8.1 什么是影调
+
+![image-20250408135619961](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408135619961.png)
+
+#### 2.8.2 影调的量化
+
+测光模式：
+
+![image-20250408135940186](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408135940186.png)
+
+直方图：
+
+![image-20250408140056436](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408140056436.png)
+
+直方图与曝光
+
+![image-20250408140206932](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408140206932.png)
+
+直方图与影调
+
+![image-20250408140307458](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408140307458.png)
+
+![image-20250408140459440](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408140459440.png)
+
+![image-20250408140506820](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408140506820.png)
+
+> 中、高调同理
+
+#### 2.8.3 数码时代最佳曝光方式
+
+向右曝光（需要使用技术将曝光调整回来，保留更多细节） 
+
+![image-20250408140653277](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408140653277.png)
+
+### 2.9 大光比应对方式
+
+#### 2.9.1 如何定义大光比情况
+
+**大光比**：明暗反差大
+
+大光比下的直方图
+
+![image-20250408141927891](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408141927891.png)
+
+常见大光比的场景
+
+![image-20250408142015048](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408142015048.png)
+
+#### 2.9.2 如何应对大光比（平衡光比）
+
+**曝光合成**：拍摄多张，通过后期合成
+
+![image-20250408142228049](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408142228049.png)
+
+**向左曝光**：欠曝保护高光，后期提亮
+
+![image-20250408142940013](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408142940013.png)
+
+**进行补光**
+
+**拍剪影**
+
+
+
+### 2.10 利用光线
+
+#### 2.10.1 光线特性
+
+**色温**
+
+![image-20250408143353089](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408143353089.png)
+
+**白平衡**（推荐AWB,后期调整）
+
+![image-20250408143555807](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408143555807.png)
+
+**方向**
+
+![image-20250408143815754](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408143815754.png)
+
+**软硬**
+
+![image-20250408144017125](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408144017125.png)
+
+
 
