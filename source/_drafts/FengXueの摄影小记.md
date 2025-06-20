@@ -316,3 +316,13 @@ categories:
 
 
 
+## 三、常见场景
+
+### 3.1 自然风光
+
+相机参数
+
+![image-20250408151741107](https://cdn.jsdelivr.net/gh/FengXueCode/FengXueResource@main/imageimage-20250408151741107.png)
+
+
+
